@@ -17,3 +17,11 @@ header {
     margin-bottom: 20px;
     background-color: chartreuse;
 }
+
+h1 {
+    margin: 0;
+}
+
+.section {
+    margin-bottom: 30px;
+}
