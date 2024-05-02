@@ -21,6 +21,19 @@ header {
 h1 {
     margin: 0;
 }
+.experiencia{
+    display:grid;
+    justify-content:center;
+    align-items:center;
+    border:5px solid white;
+}
+
+.titulo{
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+
 
 .section {
     margin-bottom: 30px;
