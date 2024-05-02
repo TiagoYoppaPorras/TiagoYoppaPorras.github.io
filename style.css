@@ -23,15 +23,17 @@ h1 {
 }
 .experiencia{
     display: grid;
-    justify-content: left;
+    justify-content: center;
     align-items:center;
     border:5px solid white;
 }
 
 .titulo{
-    justify-content:center;
-    align-items:center;
-    text-align:center;
+    position: relative;
+    top: 10px;
+    left: 25%;
+    font-size: xx-large;
+    text-align:left;
 }
 
 
