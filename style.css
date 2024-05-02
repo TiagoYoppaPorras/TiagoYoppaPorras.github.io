@@ -22,8 +22,8 @@ h1 {
     margin: 0;
 }
 .experiencia{
-    display:grid;
-    justify-content:center;
+    display: grid;
+    justify-content: left;
     align-items:center;
     border:5px solid white;
 }
@@ -53,5 +53,5 @@ h3 {
 }
 
 .fototiaguito{
-    width: 25%;
+    width: 20%;
 }
